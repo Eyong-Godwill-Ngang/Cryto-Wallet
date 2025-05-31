@@ -1,1 +1,1 @@
-# Cryto-Wallet
+# Crypto-Wallet
